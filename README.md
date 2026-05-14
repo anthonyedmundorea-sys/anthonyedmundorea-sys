@@ -1,12 +1,6 @@
-# Hey there, I'm [Your Name] 👋
+# Hey there, I'm Anthony Orea 👋
 
-> Backend developer who loves building reliable, scalable systems and clean APIs.
-
-I'm a backend-focused engineer passionate about designing robust server-side solutions. I enjoy working close to the metal — optimizing queries, architecting services, and making things fast and dependable.
-
-When I'm not writing code, I'm probably reading about distributed systems, contributing to open source, or brewing coffee ☕.
-
----
+Responsible for leading the team and managing the overall flow of the project development. He oversees the preparation of documentation, monitors the progress of each member, and ensures that the project objectives are completed successfully. He also helps in organizing reports, system presentation, and coordinating team responsibilities throughout the development of the Koring’s Karinderia Order System with Daily Profit Analysis.
 
 ## 🧠 About Me
 
@@ -14,9 +8,7 @@ When I'm not writing code, I'm probably reading about distributed systems, contr
 - 🌱 Always learning — lately exploring distributed systems & cloud infrastructure
 - 💬 Ask me about Python, Node.js, databases, or REST/GraphQL APIs
 - 📍 Based in the Philippines 🇵🇭
-- 📫 Reach me at: **your.email@example.com**
-
----
+- 📫 Reach me at: anthonyedmundorea@gmail.com
 
 ## 🛠️ Tech Stack
 
@@ -59,9 +51,8 @@ When I'm not writing code, I'm probably reading about distributed systems, contr
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anthonyedmundorea-sys)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthonyedmundorea@gmail.com)
 
 ---
 
