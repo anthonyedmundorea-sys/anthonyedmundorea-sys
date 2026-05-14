@@ -4,10 +4,7 @@ Responsible for leading the team and managing the overall flow of the project de
 
 ## 🧠 About Me
 
-- 🔭 Currently working on backend services and API design
-- 🌱 Always learning — lately exploring distributed systems & cloud infrastructure
-- 💬 Ask me about Python, Node.js, databases, or REST/GraphQL APIs
-- 📍 Based in the Philippines 🇵🇭
+- Leader/Main Documentation
 - 📫 Reach me at: anthonyedmundorea@gmail.com
 
 ## 🛠️ Tech Stack
